@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx1.ze.tn
-mx: mx2.ze.tn
+mx: gateway.mutantmail.com
+mx: mutant.cliffmail.com
 max_age: 7200
