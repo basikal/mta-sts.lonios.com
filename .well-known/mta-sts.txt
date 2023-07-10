@@ -1,5 +1,4 @@
 version: STSv1
-mode: testing
-mx: gateway.mutantmail.com
-mx: mutant.cliffmail.com
+mode: enforcing
+mx: mx.yandex.net
 max_age: 7200
