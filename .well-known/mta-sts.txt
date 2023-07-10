@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforcing
+mode: enforce
 mx: mx.yandex.net
 max_age: 7200
