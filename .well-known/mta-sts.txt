@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx.yandex.net
+mx: mx.ze.tn
 max_age: 7200
