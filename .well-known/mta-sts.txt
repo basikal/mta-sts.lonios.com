@@ -2,5 +2,4 @@ version: STSv1
 mode: enforce
 mx: mx1.ze.tn
 mx: mx2.ze.tn
-mx: mx3.ze.tn
 max_age: 7200
