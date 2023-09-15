@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx1.zoho.eu
-mx: mx2.zoho.eu
-mx: mx3.zoho.eu
-max_age: 3600
+mx: mx1.forwardemail.net
+mx: mx2.forwardemail.net
+max_age: 86400
