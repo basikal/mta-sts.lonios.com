@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx1.forwardemail.net
-mx: mx2.forwardemail.net
+mx: mx1.improvmx.com
+mx: mx1.improvmx.com
 max_age: 86400
