@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
-mx: inbound-smtp.skiff.com
+mx: mx1.lonios.com
+mx: mx2.lonios.com
 max_age: 86400
